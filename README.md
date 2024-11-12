@@ -28,11 +28,18 @@ B B R R B B R R
 B G G R B G G R
 R G B B R R G B
 R R B X G R B B
-B R R B B R R B
-G G G G B G G R
-R G B G B R B B
-G R R B B G G X
+B B R G G B R R
+B G R R B B G R
+R G G B R G G B
+R R B B R R B B
 ```
+
+In the output, the colors represent tromino orientations:
+
+- **B**: Blue
+- **R**: Red
+- **G**: Green
+- **X**: Empty square
 
 ## Usage
 To run the program, use:
